@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "data": [
+    {
+      "version": "2.4.10",
+      "debug": "./2.4.10/debug.apk",
+      "release": "./2.4.10/release.apk"
+    }
+  ]
+}
